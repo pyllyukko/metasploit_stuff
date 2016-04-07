@@ -14,7 +14,7 @@
 require 'metasm'
 require 'msf/core'
 
-module Metasploit3
+module MetasploitModule
         # http://dev.metasploit.com/redmine/projects/framework/wiki/Exploit_Ranking
         Rank = NormalRanking
 
